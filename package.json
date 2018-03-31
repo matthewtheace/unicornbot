@@ -1,0 +1,17 @@
+{
+  "name": "atomdiscordbot",
+  "version": "1.0.0",
+  "description": "Mr.unicorn bot for gamer unicorn land",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MATTHEW",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1",
+    "snekfetch": "^3.6.4",
+    "superagent": "^3.8.2"
+  }
+}
